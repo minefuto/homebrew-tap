@@ -1,6 +1,6 @@
 cask "fixcreen" do
   version "1.0.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "c7a482aac4e292d9a570446a1bf769ce7901e9887dbd91770a86b17fc907d61f"
 
   url "https://github.com/minefuto/FiXcreen/releases/download/v#{version}/FiXcreen-#{version}.zip"
   name "FiXcreen"
